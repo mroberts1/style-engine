@@ -3,8 +3,8 @@ project:
 
 website:
   title: "HypeReel"
-  site-url: "https://dokoissho.github.io/hypereel"
-  repo-url: "https://github.com/dokoissho/hypereel"
+  site-url: "https://mroberts1.github.io/hypereel"
+  repo-url: "https://github.com/mroberts1/hypereel"
   description: "A personal blog created with Quarto"
   navbar:
     right:
