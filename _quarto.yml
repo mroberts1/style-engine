@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "HypeReel"
+  site-url: "https://dokoissho.github.io/hypereel"
+  repo-url: "https://github.com/dokoissho/hypereel"
+  description: "A personal blog created with Quarto"
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+  page-footer:
+    center: |
+      Built with [Quarto](https://quarto.org/)
+    left: |
+      © 2025 HypeReel
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+feed: true
+
+
