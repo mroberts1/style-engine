@@ -1,5 +1,5 @@
 ---
-title: "hypereel"
+title: "style engine"
 listing:
   contents: posts
   sort: "date desc"
