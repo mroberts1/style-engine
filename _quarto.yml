@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "HypeReel"
-  site-url: "https://mroberts1.github.io/hypereel"
-  repo-url: "https://github.com/mroberts1/hypereel"
+  title: "Style Engine"
+  site-url: "https://mroberts1.github.io/style-engine"
+  repo-url: "https://github.com/mroberts1/style-engine"
   description: "A personal blog created with Quarto"
   navbar:
     right:
